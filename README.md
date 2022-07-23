@@ -18,7 +18,7 @@ Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., 
 ## Seminars
 1. [GSC Bioinformatics Weekly Seminar](BioTalk_2020July3.pdf) - July 3, 2020
 1. [GSC Bioinformatics Weekly Seminar - Exit Seminar](BioTalk_2021July16.pdf) - July 16, 2021
-1. [Karsan Lab Interview](KarsanLabInterview.pdf) - February 10, 2021
+1. [Karsan Lab Interview](KarsanLabInterview.pdf) - February 10, 2022
 
 ## Posters
 1. [BC Cancer Research Day](Lin_Diana_BCCancerResearchDay.pdf) - September 21, 2020
