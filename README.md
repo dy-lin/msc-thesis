@@ -13,7 +13,7 @@ Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., 
 ## Commmitee Meetings
 1. [Committee Meeting #1](CommitteeMeeting1.pdf) - June 15, 2020
 1. [Committee Meeting #2](CommitteeMeeting2.pdf) - May 20, 2021
-1. [MSc Thesis Defence](MscThesisDefence.pdf) - September 29, 2021
+1. [MSc Thesis Defence](MScThesisDefence.pdf) - September 29, 2021
 
 ## Seminars
 1. [GSC Bioinformatics Weekly Seminar](BioTalk_2020July3.pdf) - July 3, 2020
