@@ -3,6 +3,10 @@
 ## Publications
 Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., & Birol, I. (2022). &quot;Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.&quot; <i>Antibiotics</i> 11(7):952. [https://doi.org/10.3390/antibiotics11070952](https://doi.org/10.3390/antibiotics11070952)
 
+<p align="center">
+	<img src="rAMPage.png" width="30%"> 
+</p>
+
 ## Thesis
 1. Lin, D. (2021). __High throughput *in silico* discovery of antimicrobial peptides in amphibian and insect transcriptomes.__ University of British Columbia. https://dx.doi.org/10.14288/1.0402476
 
